@@ -1,0 +1,15 @@
+.git
+.venv
+__pycache__
+.pytest_cache
+data/raw
+data/processed
+artifacts/runs
+artifacts/model_runs
+artifacts/evaluation
+artifacts/checkpoints
+artifacts/baseline
+artifacts/mobilenet
+logs
+notebooks
+tests
